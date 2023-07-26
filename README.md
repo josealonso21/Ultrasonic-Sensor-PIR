@@ -1,2 +1,4 @@
-# Sensor-Ultrasonido-PIR
-Su función es mostrar la distancia de una persona u objeto y emitir una alarma si es una persona y está a 150cm o menos. (Esto se debe a que se recomienda esa distancia ante el COVID-19)
+# Ultrasonic-Sensor-PIR
+It's main function was 
+Its function is to calculate and display the user's distance from a person or object and set an alarm if it is a person and is located 150 cm or less.
+It was decided to use this distance since the project was carried out during the time of the COVID-19 pandemic.
